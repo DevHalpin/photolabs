@@ -76,5 +76,6 @@ export default function useApplicationData() {
     onPhotoSelect,
     updateToFavPhotoIds,
     onClosePhotoDetailsModal,
+    onLoadTopic
   }
 }
